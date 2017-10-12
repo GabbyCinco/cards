@@ -42,13 +42,13 @@ html {
   margin-bottom: 1rem;
 }
 
-.cards dd {
+.cards dt{
   display: inline-block;
-  margin: 6em;
+  width: 6em;
   font-style: italic;
 }
 
-.cards dt {
+.cards dd {
   display: inline-block;
   margin: 0;
   min-width: 9em;
