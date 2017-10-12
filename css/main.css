@@ -36,3 +36,9 @@ html {
 .cards dl {
   margin-bottom: 1rem;
 }
+
+.cards dt {
+  display: inline-block;
+  margin: 0;
+  min-width: 9em;
+}
